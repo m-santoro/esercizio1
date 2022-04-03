@@ -1,0 +1,6 @@
+my_subscriber
+/media/mario/Shared/Download/esercizio1/devel/.private/my_subscriber/cmake.lock /media/mario/Shared/Download/esercizio1/devel/./cmake.lock
+/media/mario/Shared/Download/esercizio1/devel/.private/my_subscriber/lib/my_subscriber/my_subscriber /media/mario/Shared/Download/esercizio1/devel/lib/my_subscriber/my_subscriber
+/media/mario/Shared/Download/esercizio1/devel/.private/my_subscriber/lib/pkgconfig/my_subscriber.pc /media/mario/Shared/Download/esercizio1/devel/lib/pkgconfig/my_subscriber.pc
+/media/mario/Shared/Download/esercizio1/devel/.private/my_subscriber/share/my_subscriber/cmake/my_subscriberConfig-version.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_subscriber/cmake/my_subscriberConfig-version.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_subscriber/share/my_subscriber/cmake/my_subscriberConfig.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_subscriber/cmake/my_subscriberConfig.cmake

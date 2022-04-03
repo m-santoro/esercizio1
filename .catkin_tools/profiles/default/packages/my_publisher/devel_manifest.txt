@@ -1,0 +1,6 @@
+my_publisher
+/media/mario/Shared/Download/esercizio1/devel/.private/my_publisher/cmake.lock /media/mario/Shared/Download/esercizio1/devel/./cmake.lock
+/media/mario/Shared/Download/esercizio1/devel/.private/my_publisher/lib/my_publisher/my_publisher /media/mario/Shared/Download/esercizio1/devel/lib/my_publisher/my_publisher
+/media/mario/Shared/Download/esercizio1/devel/.private/my_publisher/lib/pkgconfig/my_publisher.pc /media/mario/Shared/Download/esercizio1/devel/lib/pkgconfig/my_publisher.pc
+/media/mario/Shared/Download/esercizio1/devel/.private/my_publisher/share/my_publisher/cmake/my_publisherConfig-version.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_publisher/cmake/my_publisherConfig-version.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_publisher/share/my_publisher/cmake/my_publisherConfig.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_publisher/cmake/my_publisherConfig.cmake

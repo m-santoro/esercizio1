@@ -1,0 +1,1 @@
+/media/mario/Shared/Download/esercizio1/devel/./cmake.lock 27

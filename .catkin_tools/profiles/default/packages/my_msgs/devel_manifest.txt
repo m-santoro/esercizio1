@@ -1,0 +1,20 @@
+my_msgs
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/cmake.lock /media/mario/Shared/Download/esercizio1/devel/./cmake.lock
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/include/my_msgs/MyMsgs.h /media/mario/Shared/Download/esercizio1/devel/include/my_msgs/MyMsgs.h
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/lib/pkgconfig/my_msgs.pc /media/mario/Shared/Download/esercizio1/devel/lib/pkgconfig/my_msgs.pc
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/lib/python3/dist-packages/my_msgs/__init__.py /media/mario/Shared/Download/esercizio1/devel/lib/python3/dist-packages/my_msgs/__init__.py
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/lib/python3/dist-packages/my_msgs/msg/_MyMsgs.py /media/mario/Shared/Download/esercizio1/devel/lib/python3/dist-packages/my_msgs/msg/_MyMsgs.py
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/lib/python3/dist-packages/my_msgs/msg/__init__.py /media/mario/Shared/Download/esercizio1/devel/lib/python3/dist-packages/my_msgs/msg/__init__.py
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/common-lisp/ros/my_msgs/msg/MyMsgs.lisp /media/mario/Shared/Download/esercizio1/devel/share/common-lisp/ros/my_msgs/msg/MyMsgs.lisp
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/common-lisp/ros/my_msgs/msg/my_msgs-msg.asd /media/mario/Shared/Download/esercizio1/devel/share/common-lisp/ros/my_msgs/msg/my_msgs-msg.asd
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/common-lisp/ros/my_msgs/msg/_package.lisp /media/mario/Shared/Download/esercizio1/devel/share/common-lisp/ros/my_msgs/msg/_package.lisp
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/common-lisp/ros/my_msgs/msg/_package_MyMsgs.lisp /media/mario/Shared/Download/esercizio1/devel/share/common-lisp/ros/my_msgs/msg/_package_MyMsgs.lisp
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/gennodejs/ros/my_msgs/_index.js /media/mario/Shared/Download/esercizio1/devel/share/gennodejs/ros/my_msgs/_index.js
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/gennodejs/ros/my_msgs/msg/MyMsgs.js /media/mario/Shared/Download/esercizio1/devel/share/gennodejs/ros/my_msgs/msg/MyMsgs.js
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/gennodejs/ros/my_msgs/msg/_index.js /media/mario/Shared/Download/esercizio1/devel/share/gennodejs/ros/my_msgs/msg/_index.js
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/my_msgs/cmake/my_msgs-msg-extras.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_msgs/cmake/my_msgs-msg-extras.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/my_msgs/cmake/my_msgs-msg-paths.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_msgs/cmake/my_msgs-msg-paths.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/my_msgs/cmake/my_msgsConfig-version.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_msgs/cmake/my_msgsConfig-version.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/my_msgs/cmake/my_msgsConfig.cmake /media/mario/Shared/Download/esercizio1/devel/share/my_msgs/cmake/my_msgsConfig.cmake
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/roseus/ros/my_msgs/manifest.l /media/mario/Shared/Download/esercizio1/devel/share/roseus/ros/my_msgs/manifest.l
+/media/mario/Shared/Download/esercizio1/devel/.private/my_msgs/share/roseus/ros/my_msgs/msg/MyMsgs.l /media/mario/Shared/Download/esercizio1/devel/share/roseus/ros/my_msgs/msg/MyMsgs.l
